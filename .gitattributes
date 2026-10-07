@@ -1,0 +1,2 @@
+# Keep line endings deterministic.
+* text=auto eol=lf

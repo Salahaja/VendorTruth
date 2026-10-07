@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: Vendor Truth
+## Notes: Makes aux and ShaguTweaks use the vendor prices actually seen on this server, instead of a static vanilla table that overstates 1251 items and prices 223 that vendors refuse.
+## Author: Salahaja
+## Version: 1.0.0
+## OptionalDeps: SellValue, ShaguTweaks, aux-addon
+
+VendorTruth.lua
